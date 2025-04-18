@@ -20,14 +20,18 @@ This tool is designed to teach beginners the basics of file security, using **sy
 - Python 3.x (tested on 3.8+)
 - [`cryptography`](https://pypi.org/project/cryptography/) library
 
-## How To Use 
-'''bash
-python file_encryptor.py
-
-
 ###  Install Required Package
 
 To install the `cryptography` package, use the following pip command:
 
 ```bash
 pip install cryptography
+```
+
+
+## How to Use
+
+###  1. Run the script
+
+```bash
+python port_scanner.py
